@@ -9,3 +9,7 @@ x1=x=>{
  array.fill(x1(125));
    
  console.log(array);
+
+
+
+ 
